@@ -1,0 +1,13 @@
+.button button{
+    cursor: pointer;
+    width: 70px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none
+}
+h5{
+    color: red;
+}
